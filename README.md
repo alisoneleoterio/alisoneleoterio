@@ -75,7 +75,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou fascinado
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=alisoneleoterio&show_icons=true&include_all_commits=true&locale=pt-br" 
   />
@@ -83,7 +83,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou fascinado
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoneleoterio&layout=compact" 
 />
 
