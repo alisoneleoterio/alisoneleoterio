@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e compartilho meus projetos pessoais e aprendizados através do meu perfil no Instagram chamado "[Eleodev](https://www.instagram.com/eleodev/)", e também através do LinkedIn "[Neste perfil](https://www.linkedin.com/in/alison-eleoterio/)".
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Networking Fundamentals pela CISCO. Sou fascinado por tecnologia e compartilho meus projetos pessoais e aprendizados através do meu perfil no Instagram chamado "[Eleodev](https://www.instagram.com/eleodev/)", e também através do LinkedIn "[Neste perfil](https://www.linkedin.com/in/alison-eleoterio/)".
 
 <p align="left">
     <a href="https://github.com/alisoneleoterio?tab=repositories&sort=stargazers">
