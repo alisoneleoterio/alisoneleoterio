@@ -83,7 +83,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Networking F
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoneleoterio&layout=compact" 
 />
 
